@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="Broken Links">
+	<test name="Maven All">
+		<classes>
+			<class name="com.roche.HPV_BrokenLinks.BrokenLinks"></class>
+		</classes>
+	</test>
+</suite>

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Broken_Links" duration-ms="421959" started-at="2018-09-02T07:15:03Z" finished-at="2018-09-02T07:22:04Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="421959" started-at="2018-09-02T07:15:03Z" finished-at="2018-09-02T07:22:04Z">
+      <class name="com.roche.HPV_BrokenLinks.BrokenLinks">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.roche.HPV_BrokenLinks.BrokenLinks@6093dd95]" name="beforeTest" is-config="true" duration-ms="2769" started-at="2018-09-02T07:15:03Z" finished-at="2018-09-02T07:15:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.roche.HPV_BrokenLinks.BrokenLinks@6093dd95]" name="beforeClass" is-config="true" duration-ms="169" started-at="2018-09-02T07:15:05Z" finished-at="2018-09-02T07:15:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:com.roche.HPV_BrokenLinks.BrokenLinks@6093dd95]" name="Test" duration-ms="19374" started-at="2018-09-02T07:15:06Z" data-provider="TestURL" finished-at="2018-09-02T07:15:26Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.hpv16and18.com/index.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:com.roche.HPV_BrokenLinks.BrokenLinks@6093dd95]" name="Test" duration-ms="107685" started-at="2018-09-02T07:15:26Z" data-provider="TestURL" finished-at="2018-09-02T07:17:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://global.hpv16and18.com/hcp/index.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:com.roche.HPV_BrokenLinks.BrokenLinks@6093dd95]" name="Test" duration-ms="289592" started-at="2018-09-02T07:17:13Z" data-provider="TestURL" finished-at="2018-09-02T07:22:03Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://lifescience.roche.com/en_in.html]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Test -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.roche.HPV_BrokenLinks.BrokenLinks@6093dd95]" name="afterClass" is-config="true" duration-ms="355" started-at="2018-09-02T07:22:03Z" finished-at="2018-09-02T07:22:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.roche.HPV_BrokenLinks.BrokenLinks@6093dd95]" name="afterTest" is-config="true" duration-ms="1035" started-at="2018-09-02T07:22:03Z" finished-at="2018-09-02T07:22:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- com.roche.HPV_BrokenLinks.BrokenLinks -->
+    </test> <!-- Test -->
+  </suite> <!-- Broken_Links -->
+</testng-results>
