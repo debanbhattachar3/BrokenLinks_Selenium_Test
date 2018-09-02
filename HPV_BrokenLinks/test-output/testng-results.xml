@@ -2,20 +2,20 @@
 <testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
   <reporter-output>
   </reporter-output>
-  <suite name="Default suite" duration-ms="207056" started-at="2018-09-02T14:32:08Z" finished-at="2018-09-02T14:35:35Z">
+  <suite name="Default suite" duration-ms="175541" started-at="2018-09-02T14:56:06Z" finished-at="2018-09-02T14:59:02Z">
     <groups>
     </groups>
-    <test name="Default test" duration-ms="207056" started-at="2018-09-02T14:32:08Z" finished-at="2018-09-02T14:35:35Z">
+    <test name="Default test" duration-ms="175541" started-at="2018-09-02T14:56:06Z" finished-at="2018-09-02T14:59:02Z">
       <class name="com.roche.HPV_BrokenLinks.TestBrokenLinks">
-        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="beforeTest" is-config="true" duration-ms="6230" started-at="2018-09-02T14:32:08Z" finished-at="2018-09-02T14:32:14Z">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="beforeTest" is-config="true" duration-ms="3353" started-at="2018-09-02T14:56:06Z" finished-at="2018-09-02T14:56:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeTest -->
-        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="beforeClass" is-config="true" duration-ms="333" started-at="2018-09-02T14:32:14Z" finished-at="2018-09-02T14:32:15Z">
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="beforeClass" is-config="true" duration-ms="198" started-at="2018-09-02T14:56:10Z" finished-at="2018-09-02T14:56:10Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeClass -->
-        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="Test" duration-ms="26245" started-at="2018-09-02T14:32:16Z" data-provider="TestURL" finished-at="2018-09-02T14:32:43Z">
+        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="Test" duration-ms="27035" started-at="2018-09-02T14:56:11Z" data-provider="TestURL" finished-at="2018-09-02T14:56:38Z">
           <params>
             <param index="0">
               <value>
@@ -26,7 +26,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="Test" duration-ms="170873" started-at="2018-09-02T14:32:43Z" data-provider="TestURL" finished-at="2018-09-02T14:35:33Z">
+        <test-method status="PASS" signature="Test(java.lang.String)[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="Test" duration-ms="142256" started-at="2018-09-02T14:56:38Z" data-provider="TestURL" finished-at="2018-09-02T14:59:00Z">
           <params>
             <param index="0">
               <value>
@@ -37,11 +37,11 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Test -->
-        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="afterClass" is-config="true" duration-ms="473" started-at="2018-09-02T14:35:33Z" finished-at="2018-09-02T14:35:34Z">
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="afterClass" is-config="true" duration-ms="648" started-at="2018-09-02T14:59:00Z" finished-at="2018-09-02T14:59:01Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterClass -->
-        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="afterTest" is-config="true" duration-ms="1115" started-at="2018-09-02T14:35:34Z" finished-at="2018-09-02T14:35:35Z">
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.roche.HPV_BrokenLinks.TestBrokenLinks@6093dd95]" name="afterTest" is-config="true" duration-ms="1120" started-at="2018-09-02T14:59:01Z" finished-at="2018-09-02T14:59:02Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterTest -->
