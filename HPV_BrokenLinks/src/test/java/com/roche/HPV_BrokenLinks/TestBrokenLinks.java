@@ -52,7 +52,7 @@ public class TestBrokenLinks {
 	public void Test(String URL) {
 
 		// Extent report
-		test = report.startTest(URL);
+		test = report.startTest("URL Checked : " + URL);
 		test.assignAuthor("Run by --> Debanjan Bhattacharya");
 		test.assignCategory("Environment -->  PROD");
 
